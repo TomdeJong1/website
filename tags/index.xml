@@ -1,10 +1,65 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Welkom bij SignalIT</title>
+    <title>Tags on Introduction</title>
     <link>https://tomdejong1.github.io/website/tags/</link>
-    <description>Recent content in Tags on Welkom bij SignalIT</description>
+    <description>Recent content in Tags on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://tomdejong1.github.io/website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Feb 2022 16:04:06 -0500</lastBuildDate><atom:link href="https://tomdejong1.github.io/website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog</title>
+      <link>https://tomdejong1.github.io/website/tags/blog/</link>
+      <pubDate>Mon, 21 Feb 2022 16:04:06 -0500</pubDate>
+      
+      <guid>https://tomdejong1.github.io/website/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>features</title>
+      <link>https://tomdejong1.github.io/website/tags/features/</link>
+      <pubDate>Mon, 21 Feb 2022 16:04:06 -0500</pubDate>
+      
+      <guid>https://tomdejong1.github.io/website/tags/features/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>images</title>
+      <link>https://tomdejong1.github.io/website/tags/images/</link>
+      <pubDate>Sun, 20 Feb 2022 12:04:16 -0500</pubDate>
+      
+      <guid>https://tomdejong1.github.io/website/tags/images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>code</title>
+      <link>https://tomdejong1.github.io/website/tags/code/</link>
+      <pubDate>Sat, 25 Jul 2020 02:04:06 -0500</pubDate>
+      
+      <guid>https://tomdejong1.github.io/website/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://tomdejong1.github.io/website/tags/markdown/</link>
+      <pubDate>Mon, 06 Nov 2017 12:04:06 -0500</pubDate>
+      
+      <guid>https://tomdejong1.github.io/website/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>words</title>
+      <link>https://tomdejong1.github.io/website/tags/words/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tomdejong1.github.io/website/tags/words/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
