@@ -1,0 +1,4 @@
+baseURL = "http://signalit.nl/"
+languageCode = "en-us"
+title = "Welkom bij SignalIT"
+theme = "ananke"
