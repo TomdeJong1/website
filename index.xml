@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welkom bij SignalIT</title>
-    <link>http://signalit.nl/</link>
+    <link>https://tomdejong1.github.io/website/</link>
     <description>Recent content on Welkom bij SignalIT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Oct 2022 11:06:02 +0200</lastBuildDate><atom:link href="http://signalit.nl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Oct 2022 11:06:02 +0200</lastBuildDate><atom:link href="https://tomdejong1.github.io/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://signalit.nl/posts/my-first-post/</link>
+      <link>https://tomdejong1.github.io/website/posts/my-first-post/</link>
       <pubDate>Sun, 23 Oct 2022 11:06:02 +0200</pubDate>
       
-      <guid>http://signalit.nl/posts/my-first-post/</guid>
+      <guid>https://tomdejong1.github.io/website/posts/my-first-post/</guid>
       <description></description>
     </item>
     
