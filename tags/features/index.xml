@@ -28,16 +28,5 @@ Configuration Most of what you&amp;rsquo;ll want to configure is demonstrated in
 Here are all the options included in the (live!) configuration file for this example site! baseURL = &amp;#34;https://www.signalit.nl/&amp;#34; # Your domain name. Must end with &amp;#34;/&amp;#34; theme = &amp;#34;introduction&amp;#34; DefaultContentLanguage = &amp;#34;en&amp;#34; # Default language for multilingual sites # disqusshortname = &amp;#34;&amp;#34; # https://gohugo.</description>
     </item>
     
-    <item>
-      <title>Markdown Support</title>
-      <link>https://www.signalit.nl/blog/startup-ipsum/</link>
-      <pubDate>Mon, 06 Nov 2017 12:04:06 -0500</pubDate>
-      
-      <guid>https://www.signalit.nl/blog/startup-ipsum/</guid>
-      <description>Introduction supports code blocks and syntax highlighting:
-$ complicated techie code git bash ubuntu &amp;gt;&amp;gt;&amp;gt; return value init foo You can easily create tables using Markdown, with rows that support readability:
-this is a table ! this is the 1st row this is the 2nd row this is the 3rd row edgy jo ke lands here this is the 5th row this is the 6th row Unordered lists render with high readabiltiy as well!</description>
-    </item>
-    
   </channel>
 </rss>
