@@ -3,15 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.signalit.nl/blog/</loc>
+    <lastmod>2022-10-29T16:32:19+02:00</lastmod>
+  </url><url>
+    <loc>https://www.signalit.nl/</loc>
+    <lastmod>2022-10-29T16:32:19+02:00</lastmod>
+  </url><url>
+    <loc>https://www.signalit.nl/blog/the-beginning/</loc>
+    <lastmod>2022-10-29T16:32:19+02:00</lastmod>
   </url><url>
     <loc>https://www.signalit.nl/series/</loc>
   </url><url>
-    <loc>https://www.signalit.nl/</loc>
-  </url><url>
     <loc>https://www.signalit.nl/tags/</loc>
-  </url><url>
-    <loc>https://www.signalit.nl/blog/no-date/</loc>
-  </url><url>
-    <loc>https://www.signalit.nl/tags/words/</loc>
   </url>
 </urlset>

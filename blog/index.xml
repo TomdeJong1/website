@@ -5,14 +5,16 @@
     <link>https://www.signalit.nl/blog/</link>
     <description>Recent content in Blog on SignalIT</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.signalit.nl/blog/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Oct 2022 16:32:19 +0200</lastBuildDate><atom:link href="https://www.signalit.nl/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Undated post</title>
-      <link>https://www.signalit.nl/blog/no-date/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>The Beginning</title>
+      <link>https://www.signalit.nl/blog/the-beginning/</link>
+      <pubDate>Sat, 29 Oct 2022 16:32:19 +0200</pubDate>
       
-      <guid>https://www.signalit.nl/blog/no-date/</guid>
-      <description>I was born yesterday, tomorrow.</description>
+      <guid>https://www.signalit.nl/blog/the-beginning/</guid>
+      <description>I will start as a freelance workspace consultant from the start of January 2023. My focus lies on the Citrix perspective and Microsoft Azure platform.
+I&amp;rsquo;ve started my IT journey at the Royal Signal Battalion in the Royal Netherlands Army as a network admin. From there I joined a production company where I had my first encounter with Citrix and techniques as NVIDIA vGPU and CAD/CAM solutions like Solidworks and Autodesk applications.</description>
     </item>
     
   </channel>
